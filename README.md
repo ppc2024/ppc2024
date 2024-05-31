@@ -2,7 +2,7 @@
 
 ## Overview
 
-Hello, I'm Pratheesh PC, DevSecOps Engineer with experience in cloud computing platforms, container orchestration, infrastructure automation, and cybersecurity. 
+Hello, I'm Pratheesh PC, DevSecOps Engineer with experience in cloud computing platforms, container orchestration, infrastructure automation, Unix/Linux and cybersecurity. 
 
 ## Skills
 
@@ -34,7 +34,7 @@ As a CISSP and CCSP certified professional, I prioritize security in all aspects
 
 ## Contact
 
-Feel free to reach out to me via [email](mailto:pratheeshpc2024@gmail.com) for collaboration opportunities or to discuss anything related to DevSecOps, cloud computing, or cybersecurity.
+Feel free to reach out to me via [email](mailto:pratheeshpc2024@gmail.com) for collaboration opportunities or to discuss anything related to DevSecOps, cloud computing, or cybersecurity. 
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/pratheeshpc/)!
 
