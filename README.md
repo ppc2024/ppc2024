@@ -1,8 +1,8 @@
-# DevSecOps Engineer
+# DevSecOps Engineer/Architect
 
 ## Overview
 
-Hello, I'm Pratheesh PC, DevSecOps Engineer with experience in cloud computing platforms, container orchestration, infrastructure automation, Unix/Linux and cybersecurity. 
+Hello, I'm a DevSecOps Engineer/Architect with experience in cloud computing platforms, container orchestration, infrastructure automation, Unix/Linux and cybersecurity. 
 
 ## Skills
 
@@ -11,7 +11,8 @@ Hello, I'm Pratheesh PC, DevSecOps Engineer with experience in cloud computing p
 - **Container Orchestration**: Kubernetes, OpenShift
 - **Infrastructure as Code (IaC)**: Terraform
 - **Automation**: Ansible
-- **Security Certifications**: CISSP, CCSP
+- **Security Certifications**: CISSP, CCSP, AWS/GCP Security specialist
+- **Architect Certifications**: TOGAF, AWS/Azure/GCP Architect Professional
 
 ## Contact
 
