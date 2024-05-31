@@ -11,7 +11,7 @@ Hello, I'm a DevSecOps Engineer/Architect with experience in cloud computing pla
 - **Container Orchestration**: Kubernetes, OpenShift
 - **Infrastructure as Code (IaC)**: Terraform
 - **Automation**: Ansible
-- **Security Certifications**: CISSP, CCSP, AWS/GCP Security specialist
+- **Security Certifications**: CISSP, CCSP, AWS/GCP Security Specialist
 - **Architect Certifications**: TOGAF, AWS/Azure/GCP Architect Professional
 
 ## Contact
