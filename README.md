@@ -8,7 +8,7 @@ Hello, I'm a DevSecOps Engineer/Architect with experience in cloud computing pla
 
 - **Cloud Platforms**: AWS, Azure, Google Cloud Platform (GCP)
 - **Virtualization**: VMware, Hyper-V
-- **Operating System**: Redhat Linux, Talos Linux, Ubuntu, fedora(workstation), Windows etc. Never used iOS or any apple products yet.
+- **Operating System**: Redhat Linux, Talos Linux, Ubuntu, fedora(workstation), Windows etc. Never used iOS or any apple products
 - **Container Orchestration**: Kubernetes(Bare metal, EKS, AKS, GKE) , OpenShift(ROSA(AWS), Azure Red Hat OpenShift)
 - **Infrastructure as Code (IaC)**: Terraform
 - **Automation**: Ansible
