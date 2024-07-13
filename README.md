@@ -8,13 +8,15 @@ Hello, I'm a DevSecOps Engineer/Architect with experience in cloud computing pla
 
 - **Cloud Platforms**: AWS, Azure, Google Cloud Platform (GCP)
 - **Virtualization**: VMware, Hyper-V
-- **Container Orchestration**: Kubernetes, OpenShift
-- **Infrastructure as Code (IaC)**: Terraform, ansible
+- **Operating System**: Redhat Linux, Talos Linux, Ubuntu, fedora(workstation), Windows etc. Never used iOS or any apple products yet.
+- **Container Orchestration**: Kubernetes(Bare metal, EKS, AKS, GKE) , OpenShift(ROSA(AWS), Azure Red Hat OpenShift)
+- **Infrastructure as Code (IaC)**: Terraform
 - **Automation**: Ansible
+- **CI/CD**: Github actions, Gitlab, Bamboo(Atlassian suite), Azure Devops, AWS codepipeline
 - **Security Certifications**: CISSP, CCSP, AWS/GCP Security Specialist
-- **Architect Certifications**: TOGAF, AWS/Azure/GCP Architect Professional
+- **Architect Certifications**: TOGAF, AWS/Azure/GCP Architect Professional 
 
-Note: I am not a developer and trying to explore and learn Go, haskell , python, reactjs etc on need basis.
+Note: Kindly be noted,I am not a developer and trying to explore and learn Go, haskell , python, reactjs etc on need basis.
 
 ## Contact
 
